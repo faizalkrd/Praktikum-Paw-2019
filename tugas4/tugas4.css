@@ -1,0 +1,9 @@
+div.menu { 
+	margin-top:15px;
+	padding: 5px; 
+	border:1px solid black; 
+	background-color: #CCCCFF;	
+	float: center;
+	margin-left:100px;
+	margin-right:100px;
+}
